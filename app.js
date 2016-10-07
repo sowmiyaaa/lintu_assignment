@@ -1,27 +1,27 @@
-var app=angular.module('myApp',['ui.router']);
+var app=angular.module('firstApp',['ui.router']);
 
 app.config(function($stateProvider, $urlRouterProvider) {
  $stateProvider
   .state('index',{
     url: '/index.html'
   })
-    .state('display', {
-       url: 'display/:key',
+    .state('details', {
+       url: 'details/:car',
       views: {
     '': {
-      templateUrl: 'display.html',
-      controller: 'dispController'
+      templateUrl: 'details.html',
+      controller: 'carController'
 
     }}
     })
 });
-app.controller("dispController",["$scope","$http","$stateParams", function($scope,$http,$stateParams){
+app.controller("carController",["$scope","$http","$stateParams", function($scope,$http,$stateParams){
 	
 	$http.get('data.json').success(function(data){ 
-		var c=$stateParams.key;
-		$scope.did=(data[c].name);
-		$scope.did1=(data[c].description);
-		$scope.ur=data[c].url;
+		var obj=$stateParams.car;
+		$scope.car_name=(data[obj].name);
+		$scope.car_description=(data[obj].description);
+		$scope.car_image=data[obj].url;
 		
 	});
 

@@ -1,28 +1,39 @@
+body{
 
+	background-color: whitesmoke;
+}
+a:hover{
 
+	text-decoration: none;
+}
 .row{
 	width: 100%;
-	background-color: #c0d6ff;
 	padding-bottom: 10%;
 	}
 .img-thumbnail{
-	width: 100px;
-	height: 100px;
+	width: 200px;
+	height: 150px;
 }
 h1{
 text-align: center;
 color: black;
+font-style: italic;
+font-family: helvetica;
 }
 img{
 	margin-top: 30px;
 }
-.decrp{
-	background-color: #398271;
-}
-.decrp h1{
-	color: white;
-	text-decoration: underline;
+
+.detail h1{
+	color:black;
 	padding-top: 20px;
+}
+.mar{
+	margin-top: 34px;
+	padding: 20px 0px 0px 0px;
+	text-align: justify;
+	font-weight: bold;
+
 }
 figcaption{
 	
@@ -30,15 +41,9 @@ figcaption{
 	color:black; 
 	font-weight: bold;
 }
-.clr{
+.clear{
 	clear: both;
 }
-.decrp a{
-	color: red;	
-}
-.margint{
-	margin-top: 34px;
-	padding: 20px 0px 0px 0px;
-	text-align: justify;
-	font-weight: bold;
+.detail a{
+	color:black;	
 }

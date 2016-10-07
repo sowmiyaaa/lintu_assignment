@@ -1,71 +1,70 @@
 {
-		 "WebCamera": 
+		 "KoenigseggAgera": 
             {
-                "url":"assets/images/cam.jpg",
-        "name": "WebCamera",
-        "description": "A webcam is a video camera that feeds or streams its image in real time to or through a computer to computer network. When captured by the computer, the video stream may be saved, viewed or sent on to other networks via systems such as the internet, and email as an attachment. When sent to a remote location, the video stream may be saved, viewed or on sent there. Unlike an IP camera (which connects using Ethernet or Wi-Fi), a webcam is generally connected by a USB cable, or similar cable, or built into computer hardware, such as laptops.The term webcam (a clipped compound) may also be used in its original sense of a video camera connected to the Web continuously for an indefinite time, rather than for a particular session, generally supplying a view for anyone who visits its web page over the Internet. Some of them, for example, those used as online traffic cameras, are expensive, rugged professional video cameras."    
-    },
-    "CPU": 
+                "url":"assets/images/KoenigseggAgera.jpg",
+        "name": "KoenigseggAgera",
+        "description": "The Koenigsegg Agera is a mid-engined sports car produced by Swedish car manufacturer Koenigsegg since 2011. It is a successor to the Koenigsegg CCX/CCXR. The name comes from the Swedish verb 'agera' which means to act or in imperative form (You) act!The Agera is powered by an in-house developed 5.0-litre twin-turbocharged V8 engine which produces 701 kW (940 hp) at 6900 rpm and 1,100 N·m (810 lb·ft) of torque at 4000 rpm. Total weight of the engine is only 197 kg (434 lb) thanks to a carbon fiber intake manifold and the aluminium construction."
+   },
+    "HennesseyVenom": 
             {
-                 "url":"assets/images/cpu.jpg",
-        "name": "CPU",
-        "description": "A central processing unit (CPU) is the electronic circuitry within a computer that carries out the instructions of a computer program by performing the basic arithmetic, logical, control and input/output (I/O) operations specified by the instructions. The term has been used in the computer industry at least since the early 1960s.[1] Traditionally, the term CPU refers to a processor, more specifically to its processing unit and control unit (CU), distinguishing these core elements of a computer from external components such as main memory and I/O circuitry. The form, design and implementation of CPUs have changed over the course of their history, but their fundamental operation remains almost unchanged. Principal components of a CPU include the arithmetic logic unit (ALU) that performs arithmetic and logic operations, processor registers that supply operands to the ALU and store the results of ALU operations, and a control unit that orchestrates the fetching (from memory) and execution of instructions by directing the coordinated operations of the ALU, registers and other components."
+                 "url":"assets/images/HennesseyVenom.jpg",
+        "name": "Hennessey Venom",
+        "description": "The Hennessey Venom GT is an American[1] sports car manufactured by Texas-based Hennessey Performance Engineering, based on a heavily modified Lotus Exige chassis.On March 25, 2016 the Hennessey Venom GT Spyder posted a top speed of 265.6 mph (427.4 km/h) at California's Naval Air Station Lemoore, establishing a new speed world record for open top street legal road vehicles, celebrating Hennessey's 25th anniversary.[9] In May 2016 the Hennessey Team revealed that the record-breaking car was about 300 hp (220 kW) down on power due to issues with one of the car's three high capacity fuel pumps. Normally, the Venom GT Spyder delivers 1,451 hp (1,082 kW) and 1,287 lb·ft (1,745 N·m) from its forced induction 7.0-liter V8, making it the most powerful car currently in production.[10]"
         
     },
-"DISK": 
+"BugattiVeyron": 
             {
-                 "url":"assets/images/hdd.jpg",
-        "name": "DISK",
-        "description": "A hard disk drive (HDD), hard disk, hard drive or fixed disk[b] is a data storage device used for storing and retrieving digital information using one or more rigid rapidly rotating disks (platters) coated with magnetic material. The platters are paired with magnetic heads arranged on a moving actuator arm, which read and write data to the platter surfaces.[2] Data is accessed in a random-access manner, meaning that individual blocks of data can be stored or retrieved in any order and not only sequentially. HDDs are a type of non-volatile memory, retaining stored data even when powered off. Introduced by IBM in 1956,[3] HDDs became the dominant secondary storage device for general-purpose computers by the early 1960s. Continuously improved, HDDs have maintained this position into the modern era of servers and personal computers. More than 200 companies have produced HDDs historically, though after extensive industry consolidation most current units are manufactured by Seagate, Toshiba, and Western Digital. As of 2016, HDD production (in bytes per year) is growing, although unit shipments and sales revenues are declining. The primary competing technology for secondary storage is flash memory in the form of solid-state drives (SSDs), which have higher data-transfer rates, higher areal storage density, better reliability,[4] and much lower latency and access times.[5][6][7][8] While SSDs have higher cost per bit, SSDs are replacing HDDs where speed, power consumption, small size, and durability are important."
+                 "url":"assets/images/BugattiVeyron.jpg",
+        "name": "BugattiVeyron",
+        "description": "The Bugatti Veyron EB 16.4 is a mid-engined sports car, designed and developed in Germany by the Volkswagen Group and manufactured in Molsheim, France, by Bugatti Automobiles S.A.S."
+    },
+    "GumpertApollo": 
+            {
+                 "url":"assets/images/GumpertApollo.jpg",
+        "name": "GumpertApollo",
+        "description": "The Gumpert Apollo is produced by German automaker Gumpert Sportwagenmanufaktur GmbH in Altenburg. Gumpert entered into Administration in August 2012, though production continues with the company attending the 2013 Geneva Motor Show.[1]"
         
     },
-    "motherboard": 
+    "Zenvo": 
             {
-                 "url":"assets/images/mother.jpg",
-        "name": "motherboard",
-        "description": "A motherboard (sometimes alternatively known as the mainboard, system board, baseboard, planar board or logic board,[1] or colloquially, a mobo) is the main printed circuit board (PCB) found in general purpose microcomputers and other expandable systems. It holds and allows communication between many of the crucial electronic components of a system, such as the central processing unit (CPU) and memory, and provides connectors for other peripherals. Unlike a backplane, a motherboard usually contains significant sub-systems such as the central processor, the chipset's input/output and memory controllers, interface connectors, and other components integrated for general purpose use. Motherboard specifically refers to a PCB with expansion capability and as the name suggests, this board is often referred to as the mother of all components attached to it, which often include peripherals, interface cards, and daughtercards: sound cards, video cards, network cards, hard drives, or other forms of persistent storage; TV tuner cards, cards providing extra USB or FireWire slots and a variety of other custom components."
+                 "url":"assets/images/Zenvo.jpg",
+        "name": "Zenvo",
+        "description": "Zenvo Automotive is a Danish supercar manufacturer located in Præstø on the Danish island of Zealand. It was founded by Troels Vollertsen, and the name 'Zenvo' is derived from a combination of the first 2 and last 3 letters in his last name.Zenvo Automotive was founded in 2004. The first prototype of what became the Zenvo ST1 was completed in December 2008 and production began in 2009.[1] Only 15 cars were built and sold.["
         
     },
-    "mouse": 
+    "McLaren F1": 
             {
-                 "url":"assets/images/mouse.jpg",
-        "name": "mouse",
-        "description": "A computer mouse is a pointing device (hand control) that detects two-dimensional motion relative to a surface. This motion is typically translated into the motion of a pointer on a display, which allows a smooth control of the graphical user interface. Physically, a mouse consists of an object held in one's hand, with one or more buttons. Mice often also feature other elements, such as touch surfaces and wheels, which enable additional control and dimensional input"
+                 "url":"assets/images/McLaren F1.jpg",
+        "name": "McLaren F1",
+        "description": "The McLaren F1 is a sports car designed and manufactured by McLaren Cars. Originally a concept conceived by Gordon Murray, he convinced Ron Dennis to back the project and engaged Peter Stevens to design the exterior and interior of the car. On 31 March 1998, the XP5 prototype set the record for the world's fastest production car, reaching 240.1 mph (386.4 km/h) with the rev limiter removed surpassing the 231 mph (372 km/h) reached with the XP3 prototype. The F1 surpassed the RUF CTR2's 217 mph record from 1995, and also surpassed the XJ220's 213 mph record from 1992. However, the Bugatti Veyron 16.4 beat it in 2005 with a top speed of 253.81 mph (408.47 km/h)."
         
     },
-    "key": 
+    "Saleen": 
             {
-                 "url":"assets/images/key.jpg",
-        "name": "key",
-        "description": "In computing, a computer keyboard is a typewriter-style device which uses an arrangement of buttons or keys to act as a mechanical lever or electronic switch. Following the decline of punch cards and paper tape, interaction via teleprinter-style keyboards became the main input device for computers. A keyboard typically has characters engraved or printed on the keys (buttons) and each press of a key typically corresponds to a single written symbol. However, to produce some symbols requires pressing and holding several keys simultaneously or in sequence. While most keyboard keys produce letters, numbers or signs (characters), other keys or simultaneous key presses can produce actions or execute computer commands."
+                 "url":"assets/images/Saleen.jpg",
+        "name": "Saleen",
+        "description": "The Saleen S7 is an American hand-built, high-performance supercar designed and initially built in the UK by Automotive and Motorsport engineering company Ray Mallock Ltd.[4] on behalf of Saleen Inc. Developed jointly by Steve Saleen for the initial concept and direction, Hidden Creek Industries for resources and initial funding, Phil Frank for the body and interior CAD design and development,[5] it was the first fully proprietary car produced by Saleen and became America's first mid-engine production supercar. The S7 debuted on August 19, 2000 at the Monterey Historic Races. The all-aluminum engine is a bored-and-stroked derivative of Ford's 351 Windsor small block with Cleveland-style canted valve heads, not based on the FE big-block. It proved remarkably tractable and flexible for such a high-output unit—550 hp at 6400 rpm.[6] In 2005, the S7 gained a more powerful twin-turbo powerplant which boosted engine power to 750 hp (559 kW) and top speed to 248 mph (399 km/h)"
         
     },
-    "monitor": 
+    "SSC": 
             {
-                 "url":"assets/images/monitor.jpg",
-        "name": "monitor",
-        "description": "A computer monitor or a computer display is an electronic visual display for computers. A monitor usually comprises the display device, circuitry, casing, and power supply. The display device in modern monitors is typically a thin film transistor liquid crystal display (TFT-LCD) or a flat panel LED display, while older monitors used a cathode ray tubes (CRT). It can be connected to the computer via VGA, DVI, HDMI, DisplayPort, Thunderbolt, LVDS (Low-voltage differential signaling) or other proprietary connectors and signals. Originally, computer monitors were used for data processing while television receivers were used for entertainment. From the 1980s onwards, computers (and their monitors) have been used for both data processing and entertainment, while televisions have implemented some computer functionality. The common aspect ratio of televisions, and computer monitors, has changed from 4:3 to 16:10, to 16:9"
+                 "url":"assets/images/SSC.jpg",
+        "name": "SSC",
+        "description": "The SSC Ultimate Aero is a mid-engined sports car that was produced by SSC North America (formerly known as Shelby SuperCars) from 2006 until 2013. The SSC Ultimate Aero held the title of the fastest production car in the world, according to the Guinness World Records, from 2007 (when it was officially timed at 256.14 mph (412.22 km/h)) until the introduction of the Bugatti Veyron Super Sport in 2010. However, in April 2013, the Guinness World Records temporarily disqualified the Veyron's record time for a period of five days, due to concerns about electronic speed limiting changing the function of the car, thereby reinstating the Ultimate Aero as the fastest production car in the interim"
         
     },
-    "scanner": 
+    "Noble": 
             {
-                 "url":"assets/images/scanner.jpg",
-        "name": "scanner",
-        "description": "In computing, an image scanner—often abbreviated to just scanner, although the term is ambiguous out of context (barcode scanner, CAT scanner, etc.)—is a device that optically scans images, printed text, handwriting, or an object, and converts it to a digital image. Commonly used in offices are variations of the desktop flatbed scanner where the document is placed on a glass window for scanning. Hand-held scanners, where the device is moved by hand, have evolved from text scanning wands to 3D scanners used for industrial design, reverse engineering, test and measurement, orthotics, gaming and other applications. Mechanically driven scanners that move the document are typically used for large-format documents, where a flatbed design would be impractical."
+                 "url":"assets/images/Noble.jpg",
+        "name": "Noble",
+        "description": "The M600 engine uses a 4439 cc 60-degree Yamaha-derived Volvo B8444S V8 engine which is also used in the Volvo XC90 and S80, but with twin Garrett turbochargers equipped with variable boost. This allows the occupants to choose from 450 bhp (336 kW; 456 PS) (Road setting, 0.6 bar pressure), 550 bhp (410 kW; 558 PS) (Track setting, 0.8 bar) and 660 bhp (492 kW; 669 PS) (Race setting, 1.0 bar) through the use of a switch in the interior. The engine also features electronic fuel injection via a MoTeC M190 and Injector Dynamics ID725's. It has a compression ratio of 9.50:1. It uses an Oerlikon Graziano transaxle six-speed manual gearbox and has the RPM redline set at 7000."
         
     },
-    "printer": 
+    "Ferrari": 
             {
-                 "url":"assets/images/printer.jpg",
-        "name": "printer",
-        "description": "In computing, a printer is a peripheral which makes a persistent human-readable representation of graphics or text on paper or similar physical media.[1] The two most common printer mechanisms are black and white laser printers used for common documents, and color inkjet printers which can produce high quality photograph output. The world's first computer printer was a 19th-century mechanically driven apparatus invented by Charles Babbage for his difference engine.[2] This system used a series of metal rods with characters printed on them and stuck a roll of paper against the rods to print the characters. The first commercial printers generally used mechanisms from electric typewriters and Teletype machines, which operated in a similar fashion. The demand for higher speed led to the development of new systems specifically for computer use. Among the systems widely used through the 1980s were daisy wheel systems similar to typewriters, line printers that produced similar output but at much higher speed, and dot matrix systems that could mix text and graphics but produced relatively low-quality output. The plotter was used for those requiring high quality line art like blueprints."
-        
-    },
-    "joystick": 
-            {
-                 "url":"assets/images/joystick.jpg",
-        "name": "joystick",
-        "description": "A joystick is an input device consisting of a stick that pivots on a base and reports its angle or direction to the device it is controlling. A joystick, also known as the control column, is the principal control device in the cockpit of many civilian and military aircraft, either as a center stick or side-stick. It often has supplementary switches to control various aspects of the aircraft's flight. Joysticks are often used to control video games, and usually have one or more push-buttons whose state can also be read by the computer. A popular variation of the joystick used on modern video game consoles is the analog stick. Joysticks are also used for controlling machines such as cranes, trucks, underwater unmanned vehicles, wheelchairs, surveillance cameras, and zero turning radius lawn mowers. Miniature finger-operated joysticks have been adopted as input devices for smaller electronic equipment such as mobile phones."
+                 "url":"assets/images/Ferrari.jpg",
+        "name": "Ferrari",
+        "description": "Ferrari S.p.A. (pronounced [ferˈrari]) is an Italian sports car manufacturer based in Maranello. Founded by Enzo Ferrari in 1939 as Auto Avio Costruzioni, the company built its first car in 1940. However the company's inception as an auto manufacturer is usually recognized in 1947, when the first Ferrari-badged car was completed.Ferrari is the world's most powerful brand according to Brand Finance.[3] In May 2012 the 1962 Ferrari 250 GTO became the most expensive car in history, selling in a private transaction for US$38.1 million to American communications magnate Craig McCaw.[4]Fiat S.p.A. acquired 50 percent of Ferrari in 1969 and expanded its stake to 90 percent in 1988.[5] In October 2014 Fiat Chrysler Automobiles announced its intentions to separate Ferrari from FCA; as of the announcement FCA owned 90 percent of Ferrari.[6][7][8] The separation began in October 2015 with a restructuring that established Ferrari N.V. (a company incorporated in the Netherlands) as the new holding company of the Ferrari group and the subsequent sale by FCA of a 10 percent of the shares in an IPO and concurrent listing of common shares on the New York Stock Exchange"
         
     }
 

@@ -14,55 +14,61 @@
     <script type="text/javascript" src="app.js"></script>
 </head>
 
-<body ng-app="myApp">
+<body ng-app="firstApp">
     <div ui-view>
         <div class="row">
             <div class="container-fluid">
-                <h1>COMPUTER HARDWARES</h1>
-                <div class="col-xs-offset-4 col-xs-2">
-                    <a ui-sref="display({key:'WebCamera'})">
-                        <img src="assets/images/cam.jpg" class="img-thumbnail" alt="im1">
-                        <figcaption>WebCamera</figcaption>
+                <h1>FASTEST CARS</h1>
+                <div class="col-xs-offset-2 col-xs-2">
+                    <a ui-sref="details({car:'KoenigseggAgera'})">
+                        <img src="assets/images/KoenigseggAgera.jpg" class="img-thumbnail" alt="car1">
+                        <figcaption>KoenigseggAgera</figcaption>
                     </a>
 
-                    <a ui-sref="display({key:'CPU'})">
-                        <img src="assets/images/cpu.jpg" class="img-thumbnail" alt="im2">
-                        <figcaption>CPU</figcaption>
-                    </a>
-                    <a ui-sref="display({key:'DISK'})">
-                        <img src="assets/images/hdd.jpg" class="img-thumbnail" alt="im3">
-                        <figcaption>DISK</figcaption>
-                    </a>
-                    <a ui-sref="display({key:'key'})">
-                        <img src="assets/images/key.jpg" class="img-thumbnail" alt="im4">
-                        <figcaption>key</figcaption>
-                    </a>
-                    <a ui-sref="display({key:'scanner'})">
-                        <img src="assets/images/scan.jpg" class="img-thumbnail" alt="im5">
-                        <figcaption>scanner</figcaption>
-                    </a>
-                </div>
-                <div class="col-xs-offset-1 col-xs-2">
-                    <a ui-sref="display({key:'joystick'})">
-                        <img src="assets/images/joystick.jpg" class="img-thumbnail" alt="im6">
-                        <figcaption>joystick</figcaption>
-                    </a>
-                    <a ui-sref="display({key:'monitor'})">
-                        <img src="assets/images/monitor.jpg" class="img-thumbnail" alt="im7">
-                        <figcaption>monitor</figcaption>
-                    </a>
-                    <a ui-sref="display({key:'mouse'})">
-                        <img src="assets/images/mouse.jpg" class="img-thumbnail" alt="im8">
-                        <figcaption>mouse</figcaption>
-                    </a>
-                    <a ui-sref="display({key:'printer'})">
-                        <img src="assets/images/printer.jpg" class="img-thumbnail" alt="im9">
-                        <figcaption>printer</figcaption>
+                    <a ui-sref="details({car:'HennesseyVenom'})">
+                        <img src="assets/images/HennesseyVenom.jpg" class="img-thumbnail" alt="car2">
+                        <figcaption>HennesseyVenom</figcaption>
                     </a>
                    
-                    <a ui-sref="display({key:'motherboard'})">
-                        <img src="assets/images/mother.jpg" class="img-thumbnail" alt="im10">
-                        <figcaption>motherboard</figcaption>
+                    <a ui-sref="details({car:'GumpertApollo'})">
+                        <img src="assets/images/GumpertApollo.jpg" class="img-thumbnail" alt="car3">
+                        <figcaption>GumpertApollo</figcaption>
+                    </a>
+                    
+                    <a ui-sref="details({car:'BugattiVeyron'})">
+                        <img src="assets/images/BugattiVeyron.jpg" class="img-thumbnail" alt="car4">
+                        <figcaption>BugattiVeyron</figcaption>
+                    </a></div>
+                    
+                    <div class="col-xs-offset-2 col-xs-2">
+                    <a ui-sref="details({car:'Zenvo'})">
+                        <img src="assets/images/Zenvo.jpg" class="img-thumbnail" alt="car5">
+                        <figcaption>Zenvo</figcaption>
+                    </a>
+                    <a ui-sref="details({car:'McLaren F1'})">
+                        <img src="assets/images/McLaren F1.jpg" class="img-thumbnail" alt="car6">
+                        <figcaption>McLaren F1</figcaption>
+                    </a>
+                    <a ui-sref="details({car:'Saleen'})">
+                        <img src="assets/images/Saleen.jpg" class="img-thumbnail" alt="car7">
+                        <figcaption>Saleen</figcaption>
+                    </a>
+                    <a ui-sref="details({car:'SSC'})">
+                        <img src="assets/images/SSC.jpg" class="img-thumbnail" alt="car8">
+                        <figcaption>SSC</figcaption>
+                    </a>
+                </div>
+                
+                <div class="col-xs-offset-2 col-xs-2">
+                    <a ui-sref="details({car:'Noble'})">
+                        <img src="assets/images/Noble.jpg" class="img-thumbnail" alt="car9">
+                        <figcaption>Noble</figcaption>
+                    </a></div>
+                   
+                   <div class="col-xs-offset-2 col-xs-2">
+                    <a ui-sref="details({car:'Ferrari'})">
+                        <img src="assets/images/Ferrari.jpg" class="img-thumbnail" alt="car10">
+                        <figcaption>Ferrari</figcaption>
                     </a>
                     
                 </div>
