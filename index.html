@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>UI ROUTER</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+    <link rel="stylesheet" type="text/css" href="assets/css/style.css">
+    <script src="node_modules\angular/angular.min.js"></script>
+    <script src="node_modules\angular-ui-router\release/angular-ui-router.min.js"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+    <script src="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+    <script type="text/javascript" src="app.js"></script>
+</head>
+
+<body ng-app="myApp">
+    <div ui-view>
+        <div class="row">
+            <div class="container-fluid">
+                <h1>COMPUTER HARDWARES</h1>
+                <div class="col-xs-offset-4 col-xs-2">
+                    <a ui-sref="display({key:'WebCamera'})">
+                        <img src="assets/images/cam.jpg" class="img-thumbnail" alt="im1">
+                        <figcaption>WebCamera</figcaption>
+                    </a>
+
+                    <a ui-sref="display({key:'CPU'})">
+                        <img src="assets/images/cpu.jpg" class="img-thumbnail" alt="im2">
+                        <figcaption>CPU</figcaption>
+                    </a>
+                    <a ui-sref="display({key:'DISK'})">
+                        <img src="assets/images/hdd.jpg" class="img-thumbnail" alt="im3">
+                        <figcaption>DISK</figcaption>
+                    </a>
+                    <a ui-sref="display({key:'key'})">
+                        <img src="assets/images/key.jpg" class="img-thumbnail" alt="im4">
+                        <figcaption>key</figcaption>
+                    </a>
+                    <a ui-sref="display({key:'scanner'})">
+                        <img src="assets/images/scan.jpg" class="img-thumbnail" alt="im5">
+                        <figcaption>scanner</figcaption>
+                    </a>
+                </div>
+                <div class="col-xs-offset-1 col-xs-2">
+                    <a ui-sref="display({key:'joystick'})">
+                        <img src="assets/images/joystick.jpg" class="img-thumbnail" alt="im6">
+                        <figcaption>joystick</figcaption>
+                    </a>
+                    <a ui-sref="display({key:'monitor'})">
+                        <img src="assets/images/monitor.jpg" class="img-thumbnail" alt="im7">
+                        <figcaption>monitor</figcaption>
+                    </a>
+                    <a ui-sref="display({key:'mouse'})">
+                        <img src="assets/images/mouse.jpg" class="img-thumbnail" alt="im8">
+                        <figcaption>mouse</figcaption>
+                    </a>
+                    <a ui-sref="display({key:'printer'})">
+                        <img src="assets/images/printer.jpg" class="img-thumbnail" alt="im9">
+                        <figcaption>printer</figcaption>
+                    </a>
+                   
+                    <a ui-sref="display({key:'motherboard'})">
+                        <img src="assets/images/mother.jpg" class="img-thumbnail" alt="im10">
+                        <figcaption>motherboard</figcaption>
+                    </a>
+                    
+                </div>
+            </div>
+        </div>
+    </div>
+</body>
+
+</html>
